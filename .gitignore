@@ -1,0 +1,7 @@
+.env
+env/
+_pycache__/
+*.py[cod]
+*$py.class
+.streamlit/
+output.mp3
