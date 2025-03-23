@@ -38,8 +38,8 @@ This application fetches news articles for a specified company, analyzes their s
 
 1. Clone the repository:
 ```bash
-git clone https://huggingface.co/spaces/your-username/news-sentiment-analysis
-cd news-sentiment-analysis
+git clone https://github.com/Dharshan4038/News-App-with-TTS.git
+cd News-App-with-TTS
 ```
 
 2. Install dependencies:
@@ -193,3 +193,6 @@ The application integrates with multiple external APIs:
 - **Article Processing**: Limited to processing the first ~6000 characters of each article due to model constraints.
 - **API Rate Limits**: Subject to rate limitations of the Google Search API and Groq API.
 - **Processing Time**: Generating summaries and analysis may take several seconds per article.
+
+## App Deployment Link
+[View Application](https://huggingface.co/spaces/Dharshan4038/newsapp)
